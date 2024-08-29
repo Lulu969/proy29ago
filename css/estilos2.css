@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+}
+
+.padre {
+    background-color: red;
+    padding: 20px;
+    margin: 10px;
+    width: 800px;
+    border-style: dotted;
+    border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    border-radius: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hijo {
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nieto {
+    background-color: chartreuse;
+    padding: 20px;
+    margin: 10px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bisnieto {
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 10px;
+    border-style: dotted;
+    border-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tataranieto {
+    background-color: rgb(255, 127, 244);
+    padding: 20px;
+    margin: 10px;
+    
+    border-radius: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
